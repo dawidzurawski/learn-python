@@ -3,4 +3,4 @@ width = int(input("Enter the width: "))
 
 area = length * width
 
-print(f"The rectangles width is: {area}")
+print(f"The area is: {area}cm²")
