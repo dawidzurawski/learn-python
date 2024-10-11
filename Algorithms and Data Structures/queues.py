@@ -1,0 +1,1 @@
+#queues are FIFO (First In First Out) data structures
